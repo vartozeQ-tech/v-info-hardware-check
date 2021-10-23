@@ -3,4 +3,6 @@ Simple program to check basic information about hardware, program runs in CLI (c
 
 tested on windows 10 and 11 but should work also on windows 7 and older
 
+with this program you can check some hardware info like CPU,GPU,RAM,motherboard and bios 
+
 ![v-info](https://user-images.githubusercontent.com/77057750/138554632-f2fa3650-dfcd-4344-97f0-805dc5037a00.png)
